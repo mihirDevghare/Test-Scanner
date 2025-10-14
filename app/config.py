@@ -20,7 +20,7 @@ USER_ADDRESS = {
 # --- Fake AWS-like credentials (placeholders only) ---
 # These strings are intentionally synthetic and must NOT be used as real credentials.
 AWS_ACCESS_KEY_ID = "AKIAEXAMPLE000000000000"  # fake placeholder (matches AKIA[0-9A-Z]{16} style)
-AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"  # fake placeholder
+AWS_SECRET_ACCESS_KEY = "<YOUR-AWS-SECRET-ACCESS-KEY>"  # fake placeholder
 
 # --- Other synthetic secrets to trigger generic-token rules (high-entropy-looking) ---
 API_TOKEN = "TJSb7m3y8pQ1Zc6G4v9n2sE0uXrWqLkYzAaBcDeFgHiJkLmOpQr"  # fake high-entropy token
