@@ -7,7 +7,7 @@
 # --- Fake PII (personal identifiable information) ---
 USER_FULL_NAME = "Jane Q. Tester"
 USER_EMAIL = "jane.tester@example.test"
-USER_PHONE = "+1-555-0123"
+USER_PHONE = "+91-9999999999"
 USER_ADDRESS = {
     "line1": "1234 Fictitious Ave",
     "line2": "Apt 42B",
